@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xeanenl.github.io/knowledge/sitemap.xml
